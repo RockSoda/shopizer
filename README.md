@@ -84,3 +84,5 @@ Documentation available from the wiki <http://shopizer-ecommerce.github.io/shopi
 ChatOps <https://shopizer.slack.com>
 
 More information is available on shopizer web site here <http://www.shopizer.com>
+
+test
